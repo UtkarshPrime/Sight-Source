@@ -1,3 +1,4 @@
+Sight Source
 First, create a virtual environment, update pip, and install the required packages:
 
 $ python3 -m venv .venv
